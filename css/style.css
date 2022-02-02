@@ -1,0 +1,41 @@
+
+p {
+    color: darkblue;
+}
+p .color-green {
+    color: green;
+}
+
+h1, h2, h3 {
+    color: red;
+}
+
+#text-violet {
+    color: darkmagenta;
+}
+
+ul li {
+    color: orangered;
+}
+
+.subcontent p {
+    color: darkslategrey;
+}
+
+.color-gold,
+.text-gold {
+    color: gold;
+}
+
+.content > p {
+    color: rebeccapurple;
+}
+
+.content3 ~ p {
+    color: red;
+}
+
+
+
+
+
